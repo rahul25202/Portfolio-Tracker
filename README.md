@@ -48,4 +48,5 @@ leading to cold start delays, which can significantly increase response times fo
 
 
 ## Deployed Application
+- Bckend repository - https://github.com/rahul25202/Portfolio-tracker-backend
 - Website: https://portfoliomanager-one.vercel.app/
